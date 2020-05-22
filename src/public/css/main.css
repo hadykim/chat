@@ -1,0 +1,20 @@
+body {
+    background: url(../img/map.jpg);
+    background-repeat: repeat;
+    background-attachment: scroll;
+color: black;
+
+}
+
+#contentWrap {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+.whisper{
+    color: gray;
+    font-style: italic;
+}
